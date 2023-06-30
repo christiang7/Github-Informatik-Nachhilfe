@@ -2,6 +2,8 @@
 [2023-06-30]()
 
 - [X]  **Github-Informatik-Nachhilfe** 
+    - [ ] Umgang mit Texteditor
+    - [ ] Umgang mit git und github
 
 Infos über die Themen
 https://www.inf-schule.de/
