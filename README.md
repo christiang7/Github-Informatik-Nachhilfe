@@ -3,8 +3,9 @@
 
 - [X]  **Github-Informatik-Nachhilfe** 
     - [ ] Betriebssystem installieren und Software installieren
-    - [ ] Umgang mit Texteditor
-    - [ ] Umgang mit git und github
+    - [X] Umgang mit Texteditor
+    - [X] Umgang mit git und github
+
 
 
 Infos über die Themen
