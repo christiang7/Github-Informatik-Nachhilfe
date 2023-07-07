@@ -6,7 +6,7 @@
     - [X] Umgang mit Texteditor
     - [X] Umgang mit git und github
 
-
+Nächste Woche am Fr um 16 Uhr
 
 Infos über die Themen
 https://www.inf-schule.de/
